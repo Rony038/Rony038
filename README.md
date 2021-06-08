@@ -7,7 +7,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/absiddikrony/)
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ab.siddik.rony00/)
 [![Messenger Connect](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=messenger&logoColor=ffffff)](http://m.me/ab.siddik.rony00)
-
+[![Whatsapp Message](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=whatsapp&logoColor=ffffff)](http://wa.link/fi1zog)
 <br/>
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
