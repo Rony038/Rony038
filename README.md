@@ -1,6 +1,6 @@
 ### Hello! I am Muhammad Abu Bakar Siddik
 -- I am a graduate in Computer Science and Engineering.
--- Working at <strong>IT Bangla Ltd</strong> as an <strong>Assistant programmer</strong> since <strong>August'21</strong>.
+Working at <strong>IT Bangla Ltd</strong> as an <strong>Assistant programmer</strong> since <strong>August'21</strong>.
 - <strong>Reach me out  </strong> absiddikrony00@gmail.com
 - <strong>Portfolio site  </strong> 
 -  Love to Play cricket, travel, Browse Internet
