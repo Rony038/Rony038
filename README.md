@@ -11,9 +11,10 @@ Working at <strong>Shadhin LLC</strong> as a <strong>Senior Software Engineer</s
 [![Whatsapp Message](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=whatsapp&logoColor=ffffff)](http://wa.link/fi1zog)
 <br/>
 ### Languages and Tools:
+<img align="left" alt="Java" height="31px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="SpringBoot" height="31px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/springboot/springboot.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="MySql" height="31px" width="65px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="Java" height="31px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <br />
 <br/>
 <br/>
